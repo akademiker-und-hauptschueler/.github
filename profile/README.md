@@ -75,7 +75,7 @@ Der Podcast ist der Startpunkt – **nicht die Grenze** dieses Projekts.
   Website: [https://huntercoach.de ](https://www.huntercoach.de/) 
 
 - **Dennis Grewe**  
-  Hochschule Esslingen · Technologie · KI  
+  Hochschullehrer · Technologie · KI  
   LinkedIn: www.linkedin.com/in/profgrewe  
 
 ---
