@@ -1,6 +1,6 @@
 # Der Akademiker & der Hauptschüler
 
-<img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/b90d501a-24b6-417e-846b-f569f2a5101f" />
+<img width="2560" height="720" alt="banner" src="https://github.com/user-attachments/assets/b90d501a-24b6-417e-846b-f569f2a5101f" />
 
 **Der Akademiker & der Hauptschüler** ist ein offenes Diskussions- und Projektformat, das unterschiedliche Bildungs- und Lebenswege bewusst zusammenbringt.  
 Im Mittelpunkt steht der Dialog zwischen Theorie und Praxis – verständlich, ehrlich und ohne akademische oder soziale Schranken.
